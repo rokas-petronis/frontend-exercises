@@ -36,7 +36,7 @@ You'll need Node.js and npm. The repository includes an `.nvmrc` file specifying
 
 ```bash
 git clone https://github.com/rokas-petronis/html-css-task-one-nsk.git
-cd html-css-task-one-nsk
+cd frontend-exercises
 npm ci
 npm run build
 node dist/index.js
